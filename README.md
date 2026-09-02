@@ -1,4 +1,4 @@
-# NCF-recommendation-system
+# Recommendation-system
 This is a recommendation system project for my Intelligent System Course.
 
 In order to run this, you will need to go find Youtube public dataset on kaggle and drop it into your google drive for it to run. For simplicity sake, I only used the US region for the Youtube Dataset.
